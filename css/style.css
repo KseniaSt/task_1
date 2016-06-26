@@ -5,16 +5,11 @@
 	margin: 0 auto;	
 	background: white;
 }
-.body{
-	background-color: efefef;
-}
+
 .image{
 	width: 150px;
 	text-align: center;	
-
 }
-
-
 
 .blockPhoto{
 	text-align: center;	
@@ -26,4 +21,7 @@
 
 .text{ 
 	margin:10px;
+}
+.colortext{
+	color:blue;
 }
