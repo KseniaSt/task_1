@@ -1,24 +1,29 @@
-
+.info{	
+	padding: 20px;
+	padding-top: 10px;
+	width: 40%;
+	margin: 0 auto;	
+	background: white;
+}
+.body{
+	background-color: efefef;
+}
 .image{
 	width: 150px;
 	text-align: center;	
 
 }
-.info{	
-	 padding: 20px;
-	 padding-top: 10px;
-	width: 40%;
-	margin: 0 auto;	
-	background: white;
-}
+
+
+
 .blockPhoto{
 	text-align: center;	
-
 }
+
 .name{
 	text-align: center;
 }
-.text{
-   
+
+.text{ 
 	margin:10px;
 }
